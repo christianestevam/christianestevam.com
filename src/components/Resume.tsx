@@ -5,7 +5,7 @@ export const Resume = () => (
     <AiOutlineDownload size="18px" />
 
     <a
-      href=""
+      href="https://drive.google.com/file/d/1xopl_H-vvNjIGuJPN2qoNEZXQPFZIZIG/view?usp=sharing"
       target="_blank"
       rel="noopener noreferrer"
     >

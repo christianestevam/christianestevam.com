@@ -12,11 +12,13 @@ export const About = () => (
         Brazil. Throughout my career, I have gained experience in{' '}
         <strong>both backend and frontend technologies</strong>, including
         HTML/CSS, JS, React, Node.js, Python, Java, and more. Currently, I am
-        <strong> focused on the Java language and related technologies such as
+        <strong>
+          {' '}
+          focused on the Java language and related technologies such as
           SpringBoot, Hibernate, and Kafka{' '}
         </strong>
         . I am always eager to learn and am currently studying for my AWS
-        Certified Solutions Architect ‒ Associate certification.
+        Certified Solutions Architect Associate certification.
       </p>
       <p className="my-4">
         In addition to my technical skills, I pride myself on being a
