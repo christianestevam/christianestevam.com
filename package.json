@@ -1,9 +1,9 @@
 {
-  "name": "typescript-nextjs-starter",
-  "description": "A TypeScript starter for Next.js that includes all you need to build amazing projects",
+  "name": "christianestevam.com",
+  "description": "My personal website, built with Next.js and TypeScript",
   "version": "1.0.0",
   "private": true,
-  "author": "João Pedro Schmitz <hey@joaopedro.dev> (@jpedroschmitz)",
+  "author": "Christian Estevam <christianestevam@gmail.com> @christianestevam",
   "license": "MIT",
   "keywords": [
     "nextjs",
